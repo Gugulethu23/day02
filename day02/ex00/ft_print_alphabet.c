@@ -6,7 +6,7 @@
 /*   By: gnkala <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/19 12:45:17 by gnkala            #+#    #+#             */
-/*   Updated: 2020/06/19 13:48:04 by gnkala           ###   ########.fr       */
+/*   Updated: 2020/06/24 15:38:41 by gnkala           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,10 +25,5 @@ void ft_print_alphabet(void)
 			ft_putchar (letter);
         	letter++;
         } 
-}
-int main(void)
-{
-	ft_print_alphabet();
-	return (0);
 }
 
